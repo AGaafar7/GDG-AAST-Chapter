@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687783834952",
+    "project_id": "gdgaast-7a5e7",
+    "storage_bucket": "gdgaast-7a5e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687783834952:android:0d41e7359c8a3c4305af7d",
+        "android_client_info": {
+          "package_name": "org.agaafar.gdg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8F7cv-wC8cybF3CbAppL4ZPuipSwT8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

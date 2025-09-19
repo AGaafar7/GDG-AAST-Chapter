@@ -1,2 +1,3 @@
-# GDG-AAST-Chapter
+# GDG AAST Chapter
+
 Google Developer Group Mobile App

@@ -2,8 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:gdg/home_screen.dart';
 import 'package:gdg/screens/screens.dart';
 import 'package:gdg/theme/app_theme.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 
-void main() {
+void main() async {
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+);
   runApp(const MyApp());
 }
 
